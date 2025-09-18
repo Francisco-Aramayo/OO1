@@ -1,6 +1,6 @@
 package ar.edu.unlp.objetos.uno.ejercicio7;
 
-public class Circulo extends Figura{
+public class Circulo implements Figura2D{
 	private double diametro;
 	private double radio;
 	

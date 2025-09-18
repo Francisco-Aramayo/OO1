@@ -1,6 +1,6 @@
 package ar.edu.unlp.objetos.uno.ejercicio7;
 
-public class Cuadrado  extends Figura {
+public class Cuadrado  implements Figura2D {
 	private double lado;
 	
 	public Cuadrado (double lado) {
